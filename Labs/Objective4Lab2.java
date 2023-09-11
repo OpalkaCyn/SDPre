@@ -15,6 +15,7 @@ public class Objective4Lab2 {
     num2 = keyboard.nextInt();
     System.out.println("Please enter the third whole number you would like to add.");
     num3 = keyboard.nextInt();
+    int totalnum = (num1+num2+num3);
 
     //TODO prompt the user to get input for all of the above double variables.
     System.out.println("Please enter the first decimal number you would like to add.");
@@ -23,11 +24,13 @@ public class Objective4Lab2 {
     dub2 = keyboard.nextDouble();
     System.out.println("Please enter the third decimal number you would like to add.");
     dub3 = keyboard.nextDouble();
+    double totaldec = (dub1+dub2+dub3);
 
 
     //TODO print the three ints and their sum.
+      System.out.format("The sum of " +(%d + %d + %d =) , +num1 ,+num2 ,+num3, totalnum);  
 
     //TODO print the three doubles and their sum.
-
+    //System.out.println("The sum of ")
   }
 }
