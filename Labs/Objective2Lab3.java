@@ -5,9 +5,9 @@ public class Objective2Lab3 {
     boolean weekend = true;
     boolean weekday = false;
 
-    System.out.println(year)
-    System.out.println(month)
-    System.out.println(weekday)
+    System.out.println(year);
+    System.out.println(month);
+    System.out.println(weekday);
 
 
   }
