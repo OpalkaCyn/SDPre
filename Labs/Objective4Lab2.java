@@ -28,9 +28,10 @@ public class Objective4Lab2 {
 
 
     //TODO print the three ints and their sum.
-      System.out.format("The sum of " +(%d + %d + %d =) , +num1 ,+num2 ,+num3, totalnum);  
+      System.out.println("The sum of: " +num1 +" + " + num2 + " + " + num3+ " = " + totalnum);
 
     //TODO print the three doubles and their sum.
-    //System.out.println("The sum of ")
+    System.out.println("The sum of: " +dub1 +" + " + dub2 + " + " + dub3+ " = " + totaldec);
+
   }
 }
