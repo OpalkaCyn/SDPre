@@ -1,7 +1,7 @@
 public class Objective2Lab3 {
   public static void main(String[] args) {
     int year= 1996;
-    string month = "January";
+    String month = "January";
     boolean weekend = true;
     boolean weekday = false;
 
